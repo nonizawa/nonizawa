@@ -1,16 +1,24 @@
-## Hi there 👋
+# Naoya Onizawa
 
-<!--
-**nonizawa/nonizawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Professor  
+Research Institute of Electrical Communication (RIEC), Tohoku University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Lab Website  
+https://nonizawa.github.io/lab-website/
+
+---
+
+🔬 Research Areas  
+- Probabilistic Computing  
+- Stochastic Optimization  
+- AI / Few-shot Learning  
+- FPGA / GPU / ASIC  
+
+---
+
+🔗 Links  
+- Google Scholar: https://scholar.google.com/citations?user=nwlPI6YAAAAJ&hl=en  
+- GitHub: https://github.com/nonizawa  
+- arXiv: https://arxiv.org/search/cs?searchtype=author&query=Onizawa,+N  
